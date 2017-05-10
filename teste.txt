@@ -1,1 +1,2 @@
-Olá mundo, como você está?
+﻿Olá mundo, como você está?
+-BEM _+_+_
